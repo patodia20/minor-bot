@@ -1,3 +1,3 @@
 <php 
-    print_r($_GET["hub_challenge"]);
+    echo ($_GET["975277109"]);
 ?>
